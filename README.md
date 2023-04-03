@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sriharsha Madireddy
-- 👀 I’m interested in FULL STACK WEB DEVELOPMENT
-- 🌱 I’m currently learning React Js and Machine Learning.
+- 🌱 I’m currently exploring machine Learning.
 - 📫 How to reach me on linked in: sriharsha madireddy , mail :sriharshamadireddy@gmail.com
 
 <!---
