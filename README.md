@@ -11,7 +11,11 @@ I enjoy solving challenging problems — whether it’s optimizing an API, desig
 - 🌱 Currently exploring **Data Science and Machine Learning**
 - ⚙️ Experienced with **React**, **Angular**, **Node.js**, **Spring Boot**, and **AWS**
 - 🧩 Strong foundation in **Java**, **Python**, **C/C++**, and **TypeScript**
-- 🔍 Interested in **system design**, **distributed systems**, and **cloud-native apps**
+- 🏗️ Experienced in building **distributed systems**, **event-driven architectures**, and **cloud-native apps**
+- ☁️ Skilled in **ECS**, **Load Balancers**, **Cognito**, **Amplify**, **ASG**, **EC2**, **Lambda**, **SQS**, and **Nginx**
+- 🔧 Hands-on experience in **DevOps automation** with **GitHub Actions CI/CD**
+- 🧠 Strong background in **system design** and **scalable backend architectures**
+- 📈 Experienced with **New Relic APM** for **monitoring, tracing, and observability**
 - 📫 Reach me at: **sriharshamadireddy@gmail.com**
 - 🌐 Portfolio: [**github.com/SriharshaM1999**](https://github.com/SriharshaM1999)
 
@@ -62,9 +66,11 @@ I enjoy solving challenging problems — whether it’s optimizing an API, desig
 
 #### **Databases & Cloud**
 <p align="left">
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>
+  <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.nginx.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/></a>
 </p>
 
@@ -75,6 +81,7 @@ I enjoy solving challenging problems — whether it’s optimizing an API, desig
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.newrelic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/NewRelic-logo.svg" alt="New Relic" width="80" height="40"/></a>
 </p>
 
 ---
